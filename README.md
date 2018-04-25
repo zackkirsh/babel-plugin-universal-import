@@ -30,11 +30,6 @@
   </a>
 </p>
 
-
-<p align="center">
-  <img src="https://s3-us-west-1.amazonaws.com/cdn.reactlandia.com/universal-component-banner.png" />
-</p>
-
 ## Installation
 ```
 yarn add babel-plugin-universal-import
