@@ -1,35 +1,5 @@
 # babel-plugin-universal-import
 
-<p align="center">
-  <a href="https://www.npmjs.com/package/babel-plugin-universal-import">
-    <img src="https://img.shields.io/npm/v/babel-plugin-universal-import.svg" alt="Version" />
-  </a>
-
-  <a href="https://travis-ci.org/faceyspacey/babel-plugin-universal-import">
-    <img src="https://travis-ci.org/faceyspacey/babel-plugin-universal-import.svg?branch=master" alt="Build Status" />
-  </a>
-
-  <a href="https://lima.codeclimate.com/github/faceyspacey/babel-plugin-universal-import/coverage">
-    <img src="https://lima.codeclimate.com/github/faceyspacey/babel-plugin-universal-import/badges/coverage.svg" alt="Coverage Status"/>
-  </a>
-
-  <a href="https://greenkeeper.io">
-    <img src="https://badges.greenkeeper.io/faceyspacey/babel-plugin-universal-import.svg" alt="Green Keeper" />
-  </a>
-
-  <a href="https://lima.codeclimate.com/github/faceyspacey/babel-plugin-universal-import">
-    <img src="https://lima.codeclimate.com/github/faceyspacey/babel-plugin-universal-import/badges/gpa.svg" alt="GPA" />
-  </a>
-
-  <a href="https://www.npmjs.com/package/babel-plugin-universal-import">
-    <img src="https://img.shields.io/npm/dt/babel-plugin-universal-import.svg" alt="Downloads" />
-  </a>
-
-  <a href="https://www.npmjs.com/package/babel-plugin-universal-import">
-    <img src="https://img.shields.io/npm/l/babel-plugin-universal-import.svg" alt="License" />
-  </a>
-</p>
-
 ## Installation
 ```
 yarn add babel-plugin-universal-import
