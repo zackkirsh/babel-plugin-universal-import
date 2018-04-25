@@ -5,21 +5,20 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/faceyspacey/babel-plugin-universal-import.git"
+    "url": "https://github.com/zackkirsh/babel-plugin-universal-import.git"
   },
   "bugs": {
-    "url": "https://github.com/faceyspacey/babel-plugin-universal-import/issues"
+    "url": "https://github.com/zackkirsh/babel-plugin-universal-import/issues"
   },
-  "homepage": "https://github.com/faceyspacey/babel-plugin-universal-import#readme",
-  "author": "James Gillmore james@faceyspacey.com>",
+  "homepage": "https://github.com/zackkirsh/babel-plugin-universal-import#readme",
+  "author": "Zack Jackson zackary.l.jackson@gmail.com, James Gillmore james@faceyspacey.com>",
   "license": "MIT",
   "scripts": {
     "test": "jest",
     "lint": "eslint --fix ./",
     "format": "prettier --single-quote --parser=flow --semi=false --write '{src,__tests__,__test-helpers__}/**/*.js' && npm run lint",
     "precommit": "lint-staged && npm test",
-    "cm": "git-cz",
-    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+    "cm": "git-cz"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0-beta.32",
